@@ -1,0 +1,1 @@
+{"version":3,"sources":["../index.js"],"names":["default"],"mappings":"mMAASA,O","file":"index.js","sourcesContent":["export { default as default } from './src';\n"]}
