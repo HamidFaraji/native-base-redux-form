@@ -1,6 +1,6 @@
 {
   "name": "native-base-redux-form",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper to use native-base form elements(input, checkbox, radio, select) in redux-form",
   "main": "dist/src/index.js",
   "scripts": {
@@ -19,5 +19,9 @@
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-react-native": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamidFaraji/native-base-redux-form.git"
   }
 }
